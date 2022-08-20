@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"power_coin.png",
+ "imageheight":16,
+ "imagewidth":16,
+ "margin":0,
+ "name":"power_coin",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.9.1",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.8"
+}
